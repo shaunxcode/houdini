@@ -1,0 +1,10 @@
+{
+  "name": "houdini",
+  "repo": "shaunxcode/houdini",
+  "description": "simple show/hide cloak/unloak for elements",
+  "version": "0.0.1",
+  "keywords": ["tools", "interaction"],
+  "dependencies": {"component/classes": "*"},
+  "scripts": ["index.js"],
+  "style": ["index.css"]
+}
